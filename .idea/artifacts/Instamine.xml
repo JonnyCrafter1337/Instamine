@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Instamine">
+    <output-path>$USER_HOME$/Documents/SpigotServer/1.16.5/plugins</output-path>
+    <root id="archive" name="Instamine.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="module-output" name="Instamine" />
+    </root>
+  </artifact>
+</component>

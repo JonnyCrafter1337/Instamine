@@ -1,0 +1,9 @@
+name: BlocksToInv
+version: 1.0
+main: BlockToInvMain
+prefix: BTI
+commands:
+  instamine:
+    description: Turn instamining on or off
+    usage: /instamine <on|off>
+api-version: 1.16
